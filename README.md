@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🎟️ Sorteio Rifa</h1>
 
-  **Sistema de gerenciamento para realização e acompanhamento de sorteios e rifas digitais.**
+  **Sistema de gerenciamento para realização e acompanhamento do sorteio da Swarm79**
 
   <p>
     <img src="https://img.shields.io/badge/Next.js-AppRouter-000000?logo=nextdotjs&logoColor=white" alt="Next.js"/>
