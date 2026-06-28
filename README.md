@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.png" alt="Logo PROSA" width="90"/>
+  <img src="FrontEnd/public/logo.png" alt="Logo PROSA" width="90"/>
   <h1>🎟️ Sorteio Rifa</h1>
 
   **Sistema de gerenciamento para realização e acompanhamento do sorteio da Swarm79**
