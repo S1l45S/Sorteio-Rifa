@@ -108,7 +108,11 @@ Sorteio-Rifa/
 ```
 ---
 
-# 📄 LicençaEste projeto está licenciado sob a licença MIT.Consulte o arquivo LICENSE para mais informações.
+# 📄 LicençaEste 
+  
+  projeto está licenciado sob a licença **MIT**.
+  
+  Consulte o arquivo LICENSE para mais informações.
 
 ---
 
