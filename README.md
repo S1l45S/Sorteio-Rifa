@@ -62,7 +62,32 @@ graph TD
     class A,B,C,D front;
     class E,F back;
 ```
-# 🛠 Tecnologias UtilizadasFrontend (/FrontEnd)CategoriaTecnologiaFrameworkNext.js (App Router)InterfaceReactEstilizaçãoCSS / CSS ModulesConfiguraçãojsconfig.jsonBackend (/BackEnd)CategoriaTecnologiaRuntimeNode.jsServidorExpress.js (inferido de server.js)Gestão de Pacotesnpm📁 Estrutura do ProjetoPlaintextSorteio-Rifa/
+# 🛠 Tecnologias Utilizadas
+
+## Frontend
+
+| Categoria | Tecnologia |
+|-----------|------------|
+|Framework  | Next.js    |
+|Interface  |React       |
+|Estilização| CSS        |
+|Configuração| jsconfig.json|
+
+---
+
+## Backend 
+
+| Categoria | Tecnologia |
+|-----------|------------|
+|Runtime | Node.js|
+|Servidor| Express.js |
+|Gestão de Pacotes| npm|
+
+---
+
+# 📁 Estrutura do Projeto 
+```text
+Sorteio-Rifa/
 ├── BackEnd/
 │   ├── server.js            # Ponto de entrada do servidor
 │   ├── package.json         # Dependências do backend
@@ -80,4 +105,13 @@ graph TD
 │   └── package.json         # Dependências do frontend
 │
 └── .gitignore
+```
+---
+
 # 📄 LicençaEste projeto está licenciado sob a licença MIT.Consulte o arquivo LICENSE para mais informações.
+
+---
+
+# 👨‍💻 Autor
+
+**Silas Santos**
